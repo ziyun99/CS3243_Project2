@@ -1,0 +1,6 @@
+hard
+https://warwick.ac.uk/fac/sci/moac/people/students/peter_cock/python/sudoku
+http://magictour.free.fr/top95
+
+easy
+http://norvig.com/easy50.txt
